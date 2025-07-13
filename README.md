@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Привет, я Алексей!
 
-<!--
-**newerewer/newerewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter разработчик из Беларуси, увлечён созданием кроссплатформенных приложений на flutter
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Стэк технологий
+
+- 🐦 Flutter & Dart
+- ⚙️ Provider /Bloc — управление состоянием
+- 🔥 Firebase — бекенд и база данных
+- 🎨 Figma — дизайн интерфейсов
+
+---
+
+## 🧩 Проекты
+
+| 📱 Проект | 🔗 Ссылка | 📄 Описание |
+|----------|-----------|-------------|
+| WeatherX | [GitHub](https://github.com/username/weatherx) | Приложение прогноза погоды с использованием OpenWeatherMap API |
+
+
+---
+
+## 📬 Связаться со мной
+
+- 💌 Email: dev.alexei.shamalov@gmail.com  
+- 💬 Telegram: [@neverewer](https://t.me/neverewer)  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/alexei-shamalov-7324741b4/)  
+
+---
+
+## 📈 Статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
