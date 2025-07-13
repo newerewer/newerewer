@@ -1,6 +1,6 @@
 # 👋 Привет, я Алексей!
 
-Flutter разработчик из Беларуси, увлечён созданием кроссплатформенных приложений на flutter
+Flutter разработчик из Беларуси, который увлечён созданием кроссплатформенных приложений на Flutter
 
 ---
 
@@ -27,10 +27,10 @@ Flutter разработчик из Беларуси, увлечён созда�
 
 - 💌 Email: dev.alexei.shamalov@gmail.com  
 - 💬 Telegram: [@neverewer](https://t.me/neverewer)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/alexei-shamalov-7324741b4/)  
+- 💼 LinkedIn: [linkedin.com/in/alexei-shamalov](https://www.linkedin.com/in/alexei-shamalov-7324741b4/)  
 
 ---
 
 ## 📈 Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=newerewer&show_icons=true&theme=radical)
